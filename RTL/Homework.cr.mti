@@ -1,0 +1,57 @@
+/home/ICer19/RTL/shift_register_4bit.v {1 {vlog -work work -stats=none /home/ICer19/RTL/shift_register_4bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_register_4bit
+
+Top level modules:
+	shift_register_4bit
+
+} {} {}} /home/ICer19/RTL/DFF.v {1 {vlog -work work -stats=none /home/ICer19/RTL/DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} /home/ICer19/RTL/DFF_tb.v {1 {vlog -work work -stats=none /home/ICer19/RTL/DFF_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_dff
+
+Top level modules:
+	tb_dff
+
+} {} {}} /home/ICer19/RTL/Sequential_8bit.v {1 {vlog -work work -stats=none /home/ICer19/RTL/Sequential_8bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sequential_8bit
+
+Top level modules:
+	sequential_8bit
+
+} {} {}} /home/ICer19/RTL/shift_register_4bit_tb.v {1 {vlog -work work -stats=none /home/ICer19/RTL/shift_register_4bit_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_shift_register_4bit
+
+Top level modules:
+	tb_shift_register_4bit
+
+} {} {}} /home/ICer19/RTL/Counter_4bit_dff.v {1 {vlog -work work -stats=none /home/ICer19/RTL/Counter_4bit_dff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_4bit_dff
+
+Top level modules:
+	counter_4bit_dff
+
+} {} {}} /home/ICer19/RTL/Counter_4bit_dff_tb.v {1 {vlog -work work -stats=none /home/ICer19/RTL/Counter_4bit_dff_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_counter_4bit_dff
+
+Top level modules:
+	tb_counter_4bit_dff
+
+} {} {}} /home/ICer19/RTL/Sequential_8bit_tb.v {1 {vlog -work work -stats=none /home/ICer19/RTL/Sequential_8bit_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_sequential_8bit
+
+Top level modules:
+	tb_sequential_8bit
+
+} {} {}}
